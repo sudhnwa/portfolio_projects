@@ -25,6 +25,6 @@ Note: create all three text files beforehand executing the program, even though 
 
 Snapshot of execution: huffman_execution
 
-![huffman](https://github.com/sudhnwa/portfolio_projects/assets/110271704/bc39ff52-ef7e-42fd-9509-c9086eb83776)
+![huffman](https://github.com/sudhnwa/projects/assets/110271704/2474be84-1e14-4cf4-98f2-0242fd218bce)
 
 You can write your text in an input text file or try this code with any text file, even for files containing thousands of lines of text ;)
