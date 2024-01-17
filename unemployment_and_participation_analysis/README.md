@@ -1,7 +1,8 @@
 NOTE:
 
-plotly.express is used to visualize most of the graphs in this notebook which are not available in GitHub notebook preview. Your efforts to download the notebook, run it on your machine, and interact with the graphs are much appreciated.   
+plotly.express is used to visualize most of the graphs in this notebook which are not available in GitHub notebook preview. Your efforts to download the notebook, run it on your machine, and interact with the graphs are much appreciated.
 
+OR rather open the notebook in github dev mode
 
 <h2>Analyzing Unemployment and participation rates across 51 states of America from 1976 to 2023, collecting data using FRED API.</h2>
 
