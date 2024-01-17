@@ -1,4 +1,4 @@
-huffman_code
+<h1>huffman_code<h1>
 
 demonstration of data compression algorithm in C
 
