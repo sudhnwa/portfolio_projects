@@ -9,13 +9,18 @@ First, calculate the frequency of every character and generate the linked list, 
 Tree Generation: The tree is generated from leaf nodes to the root node. For Tree generation, we have to maintain two queues. Our first queue will be our generated linked list and the second queue will hold the addition of two nodes, this will be our internal node with the first dequeued node as the left child and the second dequeued node as the right child
 
 Dequeue two nodes from the first queue, create an internal node with a frequency equal to the sum of two nodes' frequencies, and add that internal node to the second queue.
+
 Now dequeue two nodes with the minimum frequency by examining the front of both queues. Repeat the following steps two times 1. If the second queue is empty, dequeue from the first queue. 2. If the first queue is empty, dequeue from the second queue. 3. Else, compare the front of two queues and dequeue the minimum.
 Repeat step two until only one node is present in any of the queues, that will be our root node.
+
 while executing the code it takes the three command line arguments:
 
-The name of the file, in which data is to be compressed is present
-The name of the file, in which codes are to be stored
-The name of the file, in which decoded data is to be stored
+1. The name of the file, in which data is to be compressed is present
+
+2. The name of the file, in which codes are to be stored
+
+3. The name of the file, in which decoded data is to be stored
+
 Note: create all three text files beforehand executing the program, even though codes and decoded text will be generated afterward, the program will still require the name of these destination files, so create empty files.
 
 Snapshot of execution: huffman_execution
