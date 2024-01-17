@@ -1,4 +1,9 @@
-Analyzing Unemployment and participation rates across 51 states of America from 1976 to 2023, collecting data using FRED API.
+NOTE:
+
+plotly.express is used to visualize most of the graphs in this notebook which are not available in GitHub notebook preview. Your efforts to download the notebook, run it on your machine, and interact with the graphs are much appreciated.   
+
+
+<h2>Analyzing Unemployment and participation rates across 51 states of America from 1976 to 2023, collecting data using FRED API.</h2>
 
 The unemployment rate is a key economic indicator, representing the percentage of the total labor force that is unemployed but actively seeking employment. It is calculated by dividing the number of unemployed individuals by the total labor force and is often seasonally adjusted for accuracy.
 
